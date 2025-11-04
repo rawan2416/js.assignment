@@ -1,0 +1,14 @@
+#changebox {
+    height:150px;
+    width:150px;
+    border:2px solid black;
+    border-radius: 3px;;
+    background-color: aqua;
+    margin-left: 325px;
+    text-align: center;
+    padding:50px;
+    font-size:larger;
+}
+body {
+    text-align: center;
+}
